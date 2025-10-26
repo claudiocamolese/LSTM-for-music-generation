@@ -47,7 +47,7 @@ class Datasets(Dataset):
         return self._extract_song_pop(text)
 
     def _extract_song_irish(self, dataset :str):
-        """Devide the dataset .abc in songs for the training.
+        """Divide the dataset .abc in songs for the training.
         Since there is only one .abc file that represents the dataset,
         we need to divide in songs using the pattern delimitator.
 
@@ -64,7 +64,7 @@ class Datasets(Dataset):
         return songs
     
     def _extract_song_pop(self, dataset: str):
-        """Devide the dataset .abc in songs for the training.
+        """Divide the dataset .abc in songs for the training.
         Since there is only one .abc file that represents the dataset,
         we need to divide in songs using the pattern delimitator.
 
@@ -81,6 +81,15 @@ class Datasets(Dataset):
         return songs
     
     def _load_mix(self, percentage : float):
+        """Merge the two dataset (irish and pop in this case), to create a single dataset.
+        This is useful to create new music genre.
+
+        Args:
+            (percentage: int): percentage in which you want divide the first dataset
+
+        Returns:
+            (list of strings): one string for each song
+        """
         irish_songs = self._load_irish_data()
         lenght_irish_songs = len(irish_songs)
         
