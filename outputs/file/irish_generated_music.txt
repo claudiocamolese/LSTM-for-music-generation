@@ -1,0 +1,45 @@
+X:1
+T:Generated Tune
+M:4/4
+K:C
+L:1/8
+K:D Major
+DFA,2 FAdf|e2ce fed2|cABG A2cd|!
+e3e defg|afef d2Bd|c2ec acec|BcdB A2|]!X:277
+T:Old Town Aell
+Z: id:dc-hornpipe-16
+M:C|
+L:1/8
+K:G Major
+(3DEF|GDBD GABd|cAA2 cdef|gfgd BGBd|cAAG FAdf|gedB cA:|!
+zga|bagf gfeg|fdef gfga|bgaf gedB|GABd gfge|]!X:296
+T:Miss Amenpowe
+Z: id:dc-jig-31
+M:6/8
+L:1/8
+K:A Dorian
+B|cBA Bcd|ecA eAc|BAB dBG|AeA Bcd|!
+[1 A2B d2e|b2g age|fad g2d|e2c def|!
+g3 a3|gbg a3|gfg age|dBG G2:|!X:100
+T:Fissey Lasto
+Z: id:dc-hornpipe-5
+M:C|
+L:1/8
+K:A Dorian
+ed|cAAB cBcd|eaaf gedB|c2Ac B2cB|dBAG FGDE|!
+G2DG EGDC|G2BG cAEG|D2EG AGAB|cBAG Acde|!
+dcde fdAF|GFGA BAG2|ABcA BGG2|Add^c defd|!
+cdef gfed|fgf2 defg|a2fd ABce|d2d^c d2:|!
+ga|bagf e2fg|afga bagf edcB|A2fc AfcA|BcBA F3f|!
+g3e agfe|dgbg a2gf|edeg fded|cABc d3:|!X:376
+T:Up tit of Saibson's
+Z: id:dc-jig-24
+M:6/8
+L:1/8
+K:G Major
+d|cAA AGB|cBA AGE|GAB dBA|GEE E2:|!
+A|Bee edB|Bdd gdB|ded ede|fdB cBA|!
+G3 GAB|A3-A2G|EAB cBA|!
+d2B BAG|AGA BAG|B3 AGG|A3 GED|D3 D3:|!
+d3 d3|dcB c2A|d2G B2G|A2G F2D|!
+E2D CED|G2A B2c|d3 d2|]!

@@ -1,0 +1,33 @@
+comet_ml:
+  start: False
+  comet_ml_key:  "<YOUR_API_KEY>"
+  project_name: 'LSTM'
+  experiment_name: 'pop'
+
+train:
+  flag: False
+  batch_size: 64
+  num_epochs: 10
+  lr: 1e-4
+  clip: 1.0
+  test_size: 0.3
+
+model:
+  embedding_dim: 128
+  hidden_dim: 256
+  num_layers: 2
+  dropout: 0.2
+  
+eval:  
+  max_length: 1000
+  output_path: "music_lstm/outputs/file/"
+  start_sequence: "X:1\nT:Generated Tune\nM:4/4\nK:C\n"
+
+data:
+  dataset: "pop"
+  percentage: 0.5
+  seq_len: 100
+
+saving:
+  output_path: "music_lstm/outputs/audio/"
+  filename: "pop_audio"

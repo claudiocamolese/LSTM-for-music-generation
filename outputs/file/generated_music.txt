@@ -1,0 +1,29 @@
+X:1
+T:Generated Tune
+M:4/4
+K:C
+M:6/8
+P:A
+|:A|"G"B2B Bed|"C"c2A "B7"BAG|"G"G2G "Em"G2A|"D7"ABc "D7"def|
+"G"g2g Bcd|e2d "C"g2e|"G"d2B "D7"cBA|"G"G2G G2:|
+P:B
+d|"G"d2d dBd|"C"G3 "A7"A2G|"D7"F2A ABc|"G"d2A GBc|"D7"d2e d2c|
+"G"B2d B2d|"D"AAA f2a|"G"gfg edc|"Bm"B2B "Em"BdB|"D"AGA "Em"BGF|"Am"E2A "D7"A2d|
+"G"g2f g2a|"G"g2B "D7"dcB|"G"G3 "C"A2A|"G"B3 G2B|"D7"ABA "G"G3|
+"G"gfg "D7"a2g|"C"edc "G"B2g|"Am"aba "D7"gfe|
+"G"dBG "D7"ABA|"G"GFG gfe|"D7"dcB AGF|"G"GBd g2:|X: 311
+T:La the Me Derom
+% Nottingham Music Database
+S:Trad, arr Phil Rowe
+M:6/8
+K:A
+d|"A"e2A ABc|"E"g2e "A"cde|"D"f2f "f#"agf|"Em"e2e "A7"fed|
+"D"A3 "Bm"d2d|"Em/g"g2e "A7"ceA|"B7/f+"B2d "Em"Bed|"A7"cde "D"d2:|
+P:B
+"D"a2f a2f|"Em"g2g gfe|"A7"a2c "D"fef|"Em"g2f "A7"e2A|"D"d2e fed|"A7"cBA "D"d2f|
+"D"afd "G"ggf|"E7"efe dcB|"A7"A2A ABc|"D"d2d "D"Aff|
+"G"gfe "D"fed|"Em"cdc "E7"Bcd|"A"e3 e2e|"D"fed "A"cBA|"D"f3 f3|
+"A"efe c2d|"A"e2c "D"B2A|"E"B2e "f#"gfe|"A"a3 a2e||
+"Bm"fb2 "E7"c2B|"A7"cBc E2A|"D"d2f f2f|"D"fge dcd|"G"Bcd "A7"efg|"D"fdd d2:|X: 141
+T:Wellington's Reel
+% No

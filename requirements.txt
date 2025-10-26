@@ -1,0 +1,8 @@
+comet-ml
+torch
+numpy
+scikit-learn
+tqdm
+scipy
+pyyaml
+musicraft
