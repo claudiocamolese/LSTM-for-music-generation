@@ -5,7 +5,9 @@ This repository contains a Generative AI project focused on music generation usi
 **LSTMs** are a special type of Recurrent Neural Network (RNN) designed to address the vanishing gradient problem commonly encountered in traditional RNNs.  
 Unlike standard RNNs or Hidden Markov Models, LSTMs can effectively capture long-term temporal dependencies, making them ideal for sequence-based tasks such as text, speech and music generation. 
 
-![new-project-3-1-1024x607-1024x585](https://github.com/user-attachments/assets/7d45abfe-0e9b-49c2-a465-9e1d96c2e7c9)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7d45abfe-0e9b-49c2-a465-9e1d96c2e7c9" width="500">
+</p>
 
 
 
