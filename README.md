@@ -28,7 +28,7 @@ The code supports the *Comet ML* framework for tracking experiments—make sure 
 If you don’t have a GPU and want to use *Colab*, run:
 
 ```python
-!cp /content/drive/MyDrive/music_lstm /content/
+!cp /content/drive/MyDrive/music_lstm/content/
 !pip install -r music_lstm/requirements.txt
 !python music_lstm/main.py
 ```
