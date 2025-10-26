@@ -3,11 +3,13 @@
 This repository contains a Generative AI project focused on music generation using Long Short-Term Memory (LSTM) networks.  
 
 **LSTMs** are a special type of Recurrent Neural Network (RNN) designed to address the vanishing gradient problem commonly encountered in traditional RNNs.  
-Unlike standard RNNs or Hidden Markov Models, LSTMs can effectively capture long-term temporal dependencies, making them ideal for sequence-based tasks such as text, speech and music generation.  
+Unlike standard RNNs or Hidden Markov Models, LSTMs can effectively capture long-term temporal dependencies, making them ideal for sequence-based tasks such as text, speech and music generation. 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7945efaf-f8d8-4928-89b0-ba377166153a" width="400">
+  <img src="https://github.com/user-attachments/assets/7945efaf-f8d8-4928-89b0-ba377166153a" width="400"><br>
+  <em>Example of generated music visualization</em>
 </p>
+
 
 An LSTM unit is composed of a cell and three gates (input, forget and output) that control how information flows through the network:  
 - Cell: acts as long-term memory, storing information over many timesteps.  
